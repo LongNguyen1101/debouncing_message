@@ -1,0 +1,15 @@
+__pycache__/
+__pycache__
+*.pyc
+**/__pycache__
+**/*.pyc
+.vscode
+.env
+*.py[cod]
+output.txt
+output.json
+database/__pycache__
+app.log
+.DS_Store
+test_color.log
+.debounce_mess
